@@ -1,0 +1,14 @@
+h1 {
+			color: red;
+			font-size: 90px;
+			text-decoration: underline;
+		}
+
+		h2{
+			font-size: 40px;
+			color: green;
+		}
+
+		.small{
+			font-size: 12px; 
+		}
